@@ -1,3 +1,3 @@
-dnd_su__html_to_pdf/build/*
-dnd_su__html_to_pdf/CMakeLists.txt.user*
 html_after/*
+code_to_html/build/*
+code_to_html/CMakeLists.txt.user*
